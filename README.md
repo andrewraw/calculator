@@ -20,3 +20,22 @@ int main(void)
    
    return 0;
 }
+
+=
+Subtraction - C code
+
+#include  <stdio.h>
+
+int main(void)
+{
+   int a, b, c;
+   
+   printf("Enter two numbers to subtract\n");
+   scanf("%d %d", &a, &b);
+   
+   c = a - b;
+   
+   printf("Difference of the numbers = %d\n", c);
+   
+   return 0;
+}
