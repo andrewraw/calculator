@@ -1,5 +1,5 @@
 # calculator
-Addition
+Addition, Subtraction
 
 Any one can use the below codes if needed
 ===========================
