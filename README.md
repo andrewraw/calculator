@@ -1,8 +1,9 @@
-# calculator
+# Calculator
 Addition, Subtraction
 
 Any one can use the below codes if needed
-===========================
+1
+=
 Addition - C code
 
 #include  <stdio.h>
@@ -20,7 +21,7 @@ int main(void)
    
    return 0;
 }
-
+2
 =
 Subtraction - C code
 
